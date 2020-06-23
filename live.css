@@ -1,0 +1,28 @@
+ body {
+     background-image: url(../HTML1/life.jpg );
+ }
+ 
+ img {
+     width: 500px;
+     height: 500px;
+     background-image: element(50, 50);
+ }
+ 
+ h1 {
+     color: royalblue;
+     font-family: Lobster;
+ }
+ 
+ .cool {
+     font-family: 'Courier New', Courier, monospace;
+     font-size: medium;
+     font-weight: 100;
+     font-weight: 600;
+     color: springgreen;
+ }
+ 
+ .good {
+     font-family: fantasy;
+     color: springgreen;
+     text-overflow: ellipsis;
+ }
